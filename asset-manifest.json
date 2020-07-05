@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Cartzilla/static/css/main.0781072b.chunk.css",
+    "main.js": "/Cartzilla/static/js/main.0d59e0e7.chunk.js",
+    "main.js.map": "/Cartzilla/static/js/main.0d59e0e7.chunk.js.map",
+    "runtime-main.js": "/Cartzilla/static/js/runtime-main.d5846a4f.js",
+    "runtime-main.js.map": "/Cartzilla/static/js/runtime-main.d5846a4f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Cartzilla/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0a60ec06.chunk.js": "/Cartzilla/static/js/2.0a60ec06.chunk.js",
+    "static/js/2.0a60ec06.chunk.js.map": "/Cartzilla/static/js/2.0a60ec06.chunk.js.map",
+    "index.html": "/Cartzilla/index.html",
+    "precache-manifest.26b9ec82d349511700c40bcf51f19066.js": "/Cartzilla/precache-manifest.26b9ec82d349511700c40bcf51f19066.js",
+    "service-worker.js": "/Cartzilla/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Cartzilla/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.0781072b.chunk.css.map": "/Cartzilla/static/css/main.0781072b.chunk.css.map",
+    "static/js/2.0a60ec06.chunk.js.LICENSE.txt": "/Cartzilla/static/js/2.0a60ec06.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Cartzilla/static/media/Rubik-Regular.b3d0902b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5846a4f.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0a60ec06.chunk.js",
+    "static/css/main.0781072b.chunk.css",
+    "static/js/main.0d59e0e7.chunk.js"
+  ]
+}
